@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Comprehensive expense and wealth tracker with Cash & Bank opening balances, investment portfolio tracking (Stocks, Mutual Funds, FD), and credit/debit transaction management with detailed expense categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
